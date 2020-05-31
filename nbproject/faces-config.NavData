@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="template/template.xhtml" x="438" y="37" zoom="true"/>
+        <Node id="views/aluno/cadastrarAluno.xhtml" x="413" y="162" zoom="true"/>
+        <Node id="index.xhtml" x="130" y="37" zoom="true"/>
+        <Node id="views/area/buscarArea.xhtml" x="128" y="102" zoom="true"/>
+        <Node id="views/professor/cadastrarProfessor.xhtml" x="463" y="228" zoom="true"/>
+        <Node id="views/area/cadastrarArea.xhtml" x="402" y="101" zoom="true"/>
+        <Node id="views/aluno/buscarAluno.xhtml" x="130" y="163" zoom="true"/>
+        <Node id="views/professor/buscarProfessor.xhtml" x="129" y="229" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
